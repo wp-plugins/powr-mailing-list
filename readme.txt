@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Mailing list signup, mailing list form, custom mailing list, free mailing list form, mailchimp, mailing list signup plugin, mailing list widget
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -18,8 +18,8 @@ Add the widget to your site, or use the shortcode **[powr-mailing-list]** to add
 POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
 <br>
 = Free Features =
-* - Unlimited inputs for text, dropdowns, checkboxes, and more.
-* - Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
+* Unlimited inputs for text, dropdowns, checkboxes, and more.
+* Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Automatically receive email notifications and send custom “thank you” messages when signups are submitted. 
 * Automatically store all contact information.
 * Choose between optional or required input fields. 
