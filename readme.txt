@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Collect contacts for your mailing list with this custom form!
 
 == Description ==
-[youtube https://youtu.be/0Sod0HlFVvY] Collect contacts for your mailing list with this custom form!
+[youtube https://www.youtube.com/watch?v=0Sod0HlFVvY] Collect contacts for your mailing list with this custom form!
 <br>
 <br>
 POWr Mailing List is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
