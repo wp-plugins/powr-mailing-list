@@ -2,7 +2,7 @@
 ===POWr Mailing List===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: Mailing list signup, mailing list form, custom mailing list, free mailing list form, mailchimp, mailing list signup plugin, mailing list widget, subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG
+Tags: Mailing list signup, mailing list form, custom mailing list, free mailing list form, mailchimp, mailing list signup plugin, mailing list widget, subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, membership form, subscription signup
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.4
@@ -23,20 +23,21 @@ First, download, install, and activate POWr Mailing List. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-mailing-list-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Accept payments through PayPal.
+* Accept payments and donations through PayPal.
+* Create recurring payments for memberships and subscriptions.
 * Easy inputs for text, dropdowns, checkboxes, email, date, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
-* Automatically receive email notifications and send custom “thank you” messages when signups are submitted. 
-* Automatically store all contact information.
+* Automatically receive email notifications and store responses for analysis and export.  
+* Display custom “thank you” messages when forms are submitted.
 * Choose between optional or required input fields. 
 * Built-in support for text in any language.
-* Mobile responsive design looks great on any device. 
+* Mobile responsive design looks great on any device.  
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Automatically send form responses to multiple email addresses.
 * Choose to clear form, lock form, hide form, or redirect to a new page after user submission.
-* Allow users to upload images, documents, audio, and more.
+* Allow users to upload images, documents, and audio files.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
